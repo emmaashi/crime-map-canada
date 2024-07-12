@@ -1,0 +1,896 @@
+Halifax ,Total all violations,30968,31038,32428,29375,26834
+Halifax ,Total Criminal Code traffic violations,1123,1233,1281,1273,1268
+Halifax ,Total impaired driving (49),932,1005,1080,1110,1095
+Halifax ,Impaired operation causing death,0,0,1,1,0
+Halifax ,Impaired operation (drugs) causing death,0,0,0,0,0
+Halifax ,Impaired operation causing bodily harm,7,9,8,11,7
+Halifax ,Impaired operation (drugs) causing bodily harm,0,1,0,0,0
+Halifax ,Impaired operation of motor vehicle vessel or aircraft (51),901,950,1026,1052,1029
+Halifax ,Impaired operation (drugs) vehicle vessel aircraft,9,30,32,33,43
+Halifax ,Impaired operation failure to provide breath sample,15,13,11,13,16
+Halifax ,Failure to comply or refusal (drugs),0,0,0,0,0
+Halifax ,Impaired operation failure to provide blood sample,0,2,2,0,0
+Halifax ,Failure to provide blood sample (drugs),0,0,0,0,0
+Halifax ,Total other Criminal Code traffic violations,191,228,201,163,173
+Halifax ,Dangerous operation causing death,0,0,1,1,0
+Halifax ,Dangerous operation causing bodily harm,0,1,6,2,0
+Halifax ,Dangerous operation of motor vehicle vessel or aircraft,31,37,38,33,41
+Halifax ,Dangerous operation evading police causing death,0,0,0,0,0
+Halifax ,Dangerous operation evading police causing bodily harm,0,0,1,1,0
+Halifax ,Dangerous operation of motor vehicle evading police,37,42,32,24,32
+Halifax ,Total fail to stop or remain (46),37,39,23,24,19
+Halifax ,Driving while prohibited,81,109,96,78,79
+Halifax ,Other Criminal Code traffic violations,5,0,2,0,1
+Halifax ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Halifax ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Halifax ,Dangerous operation causing death while street racing,0,0,0,0,0
+Halifax ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Halifax ,Dangerous operation of motor vehicle while street racing,0,0,2,0,1
+Moncton ,Total all violations,9147,8934,9109,9475,10971
+Moncton ,Total Criminal Code traffic violations,651,571,715,656,638
+Moncton ,Total impaired driving (49),507,409,550,487,456
+Moncton ,Impaired operation causing death,0,0,0,1,2
+Moncton ,Impaired operation (drugs) causing death,0,0,0,0,0
+Moncton,Impaired operation causing bodily harm,4,4,3,6,3
+Moncton ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Moncton ,Impaired operation of motor vehicle vessel or aircraft (51),478,372,524,432,409
+Moncton ,Impaired operation (drugs) vehicle vessel aircraft,5,10,6,29,24
+Moncton ,Impaired operation failure to provide breath sample,17,20,17,17,16
+Moncton ,Failure to comply or refusal (drugs),1,1,0,1,0
+Moncton ,Impaired operation failure to provide blood sample,1,1,0,1,2
+Moncton ,Failure to provide blood sample (drugs),1,1,0,0,0
+Moncton ,Total other Criminal Code traffic violations,144,162,165,169,182
+Moncton ,Dangerous operation causing death,0,0,1,0,0
+Moncton  ,Dangerous operation causing bodily harm,3,1,1,4,0
+Moncton  ,Dangerous operation of motor vehicle vessel or aircraft,29,51,37,20,15
+Moncton  ,Dangerous operation evading police causing death,0,0,0,0,0
+Moncton  ,Dangerous operation evading police causing bodily harm,0,0,0,0,0
+Moncton  ,Dangerous operation of motor vehicle evading police,9,2,7,3,5
+Moncton  ,Total fail to stop or remain (46),80,78,86,113,126
+Moncton  ,Driving while prohibited,23,30,30,28,35
+Moncton  ,Other Criminal Code traffic violations,0,0,0,0,0
+Moncton  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Moncton  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Moncton  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Moncton  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Moncton  ,Dangerous operation of motor vehicle while street racing,0,0,3,1,1
+Saint John  ,Total all violations,10874,10561,10273,9193,9179
+Saint John  ,Total Criminal Code traffic violations,467,495,457,468,417
+Saint John  ,Total impaired driving (49),380,358,328,347,322
+Saint John  ,Impaired operation causing death,0,0,2,0,0
+Saint John  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Saint John  ,Impaired operation causing bodily harm,4,0,2,3,1
+Saint John  ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Saint John  ,Impaired operation of motor vehicle vessel or aircraft (51),342,322,287,308,282
+Saint John  ,Impaired operation (drugs) vehicle vessel aircraft,1,2,2,3,3
+Saint John  ,Impaired operation failure to provide breath sample,32,33,35,33,34
+Saint John  ,Failure to comply or refusal (drugs),0,1,0,0,0
+Saint John  ,Impaired operation failure to provide blood sample,1,0,0,0,2
+Saint John  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Saint John  ,Total other Criminal Code traffic violations,87,137,129,121,95
+Saint John  ,Dangerous operation causing death,0,0,0,0,0
+Saint John  ,Dangerous operation causing bodily harm,1,3,3,1,0
+Saint John  ,Dangerous operation of motor vehicle vessel or aircraft,14,15,25,21,13
+Saint John  ,Dangerous operation evading police causing death,0,0,0,0,0
+Saint John  ,Dangerous operation evading police causing bodily harm,0,0,0,0,2
+Saint John  ,Dangerous operation of motor vehicle evading police,2,6,7,3,7
+Saint John  ,Total fail to stop or remain (46),54,73,68,60,32
+Saint John  ,Driving while prohibited,15,40,26,36,41
+Saint John  ,Other Criminal Code traffic violations,0,0,0,0,0
+Saint John  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Saint John  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Saint John  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Saint John  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Saint John  ,Dangerous operation of motor vehicle while street racing,1,0,0,0,0
+Saguenay  ,Total all violations,8075,8492,8628,8243,8091
+Saguenay  ,Total Criminal Code traffic violations,1806,1819,1830,1753,1795
+Saguenay  ,Total impaired driving (49),290,312,359,315,337
+Saguenay  ,Impaired operation causing death,0,0,0,0,0
+Saguenay  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Saguenay  ,Impaired operation causing bodily harm,6,7,6,14,5
+Saguenay  ,Impaired operation (drugs) causing bodily harm,0,0,0,0,1
+Saguenay  ,Impaired operation of motor vehicle vessel or aircraft (51),275,299,349,301,330
+Saguenay  ,Impaired operation (drugs) vehicle vessel aircraft,0,0,0,0,1
+Saguenay  ,Impaired operation failure to provide breath sample,7,6,3,0,0
+Saguenay  ,Failure to comply or refusal (drugs),0,0,0,0,0
+Saguenay  ,Impaired operation failure to provide blood sample,2,0,1,0,0
+Saguenay  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Saguenay  ,Total other Criminal Code traffic violations,1516,1507,1471,1438,1458
+Saguenay  ,Dangerous operation causing death,1,0,1,0,0
+Saguenay  ,Dangerous operation causing bodily harm,2,5,4,1,3
+Saguenay  ,Dangerous operation of motor vehicle vessel or aircraft,16,13,20,17,19
+Saguenay  ,Dangerous operation evading police causing death,0,0,0,0,1
+Saguenay  ,Dangerous operation evading police causing bodily harm,1,0,0,0,0
+Saguenay  ,Dangerous operation of motor vehicle evading police,8,13,4,0,7
+Saguenay  ,Total fail to stop or remain (46),1455,1459,1410,1397,1410
+Saguenay  ,Driving while prohibited,31,17,32,23,17
+Saguenay  ,Other Criminal Code traffic violations,2,0,0,0,0
+Saguenay  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Saguenay  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Saguenay  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Saguenay  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Saguenay  ,Dangerous operation of motor vehicle while street racing,0,0,0,0,1
+Quebec City,Total all violations,36403,34797,33674,31857,29002
+Quebec City,Total Criminal Code traffic violations,2450,2323,2289,2352,2438
+Quebec City,Total impaired driving (49),1304,1241,1327,1414,1244
+Quebec City,Impaired operation causing death,2,1,4,3,0
+Quebec City,Impaired operation (drugs) causing death,0,0,0,0,0
+Quebec City,Impaired operation causing bodily harm,38,40,39,38,31
+Quebec City,Impaired operation (drugs) causing bodily harm,0,0,1,1,1
+Quebec City,Impaired operation of motor vehicle vessel or aircraft (51),1238,1172,1240,1285,1113
+Quebec City,Impaired operation (drugs) vehicle vessel aircraft,0,11,29,75,89
+Quebec City,Impaired operation failure to provide breath sample,26,17,14,12,9
+Quebec City,Failure to comply or refusal (drugs),0,0,0,0,1
+Quebec City,Impaired operation failure to provide blood sample,0,0,0,0,0
+Quebec City,Failure to provide blood sample (drugs),0,0,0,0,0
+Quebec City,Total other Criminal Code traffic violations,1146,1082,962,938,1194
+Quebec City,Dangerous operation causing death,0,1,3,1,0
+Quebec City,Dangerous operation causing bodily harm,8,6,8,11,11
+Quebec City,Dangerous operation of motor vehicle vessel or aircraft,32,32,36,43,57
+Quebec City,Dangerous operation evading police causing death,0,1,0,0,0
+Quebec City,Dangerous operation evading police causing bodily harm,0,1,0,0,0
+Quebec City,Dangerous operation of motor vehicle evading police,11,8,18,18,23
+Quebec City,Total fail to stop or remain (46),994,939,806,799,1030
+Quebec City,Driving while prohibited,98,92,88,63,70
+Quebec City,Other Criminal Code traffic violations,3,2,3,1,3
+Quebec City,Causing death by criminal negligence while street racing,0,0,0,0,0
+Quebec City,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Quebec City,Dangerous operation causing death while street racing,0,0,0,0,0
+Quebec City,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Quebec City,Dangerous operation of motor vehicle while street racing,0,0,0,2,0
+Sherbrooke  ,Total all violations,11071,11070,10420,9745,10034
+Sherbrooke  ,Total Criminal Code traffic violations,1703,1606,1575,1643,1552
+Sherbrooke  ,Total impaired driving (49),401,417,472,423,472
+Sherbrooke  ,Impaired operation causing death,2,1,0,0,0
+Sherbrooke  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Sherbrooke  ,Impaired operation causing bodily harm,12,10,6,9,7
+Sherbrooke  ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Sherbrooke  ,Impaired operation of motor vehicle vessel or aircraft (51),382,394,449,401,447
+Sherbrooke  ,Impaired operation (drugs) vehicle vessel aircraft,0,0,8,5,8
+Sherbrooke  ,Impaired operation failure to provide breath sample,5,12,9,8,10
+Sherbrooke  ,Failure to comply or refusal (drugs),0,0,0,0,0
+Sherbrooke  ,Impaired operation failure to provide blood sample,0,0,0,0,0
+Sherbrooke  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Sherbrooke  ,Total other Criminal Code traffic violations,1302,1189,1103,1220,1080
+Sherbrooke  ,Dangerous operation causing death,0,1,0,0,0
+Sherbrooke  ,Dangerous operation causing bodily harm,6,4,2,6,1
+Sherbrooke  ,Dangerous operation of motor vehicle vessel or aircraft,24,21,17,18,7
+Sherbrooke  ,Dangerous operation evading police causing death,0,0,0,0,0
+Sherbrooke  ,Dangerous operation evading police causing bodily harm,0,0,0,1,0
+Sherbrooke  ,Dangerous operation of motor vehicle evading police,10,8,8,9,11
+Sherbrooke  ,Total fail to stop or remain (46),1228,1126,1045,1157,1039
+Sherbrooke  ,Driving while prohibited,34,29,30,27,22
+Sherbrooke  ,Other Criminal Code traffic violations,0,0,0,1,0
+Sherbrooke  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Sherbrooke  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Sherbrooke  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Sherbrooke  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Sherbrooke  ,Dangerous operation of motor vehicle while street racing,0,0,1,1,0
+Trois-Rivières ,Total all violations,8662,9022,8912,8363,8343
+Trois-Rivières ,Total Criminal Code traffic violations,762,803,736,781,1438
+Trois-Rivières ,Total impaired driving (49),550,561,540,501,466
+Trois-Rivières ,Impaired operation causing death,0,0,1,1,0
+Trois-Rivières ,Impaired operation (drugs) causing death,0,0,0,0,0
+Trois-Rivières ,Impaired operation causing bodily harm,8,10,4,5,2
+Trois-Rivières ,Impaired operation (drugs) causing bodily harm,0,0,1,0,0
+Trois-Rivières ,Impaired operation of motor vehicle vessel or aircraft (51),536,542,522,488,451
+Trois-Rivières ,Impaired operation (drugs) vehicle vessel aircraft,0,4,8,7,13
+Trois-Rivières ,Impaired operation failure to provide breath sample,6,5,4,0,0
+Trois-Rivières ,Failure to comply or refusal (drugs),0,0,0,0,0
+Trois-Rivières ,Impaired operation failure to provide blood sample,0,0,0,0,0
+Trois-Rivières ,Failure to provide blood sample (drugs),0,0,0,0,0
+Trois-Rivières ,Total other Criminal Code traffic violations,212,242,196,280,972
+Trois-Rivières ,Dangerous operation causing death,0,0,0,0,0
+Trois-Rivières ,Dangerous operation causing bodily harm,1,1,5,2,4
+Trois-Rivières ,Dangerous operation of motor vehicle vessel or aircraft,28,21,15,20,23
+Trois-Rivières ,Dangerous operation evading police causing death,0,0,0,0,0
+Trois-Rivières ,Dangerous operation evading police causing bodily harm,0,1,0,0,0
+Trois-Rivières ,Dangerous operation of motor vehicle evading police,20,16,14,12,11
+Trois-Rivières ,Total fail to stop or remain (46),140,156,133,219,910
+Trois-Rivières ,Driving while prohibited,21,46,29,26,24
+Trois-Rivières ,Other Criminal Code traffic violations,1,1,0,0,0
+Trois-Rivières ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Trois-Rivières ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Trois-Rivières ,Dangerous operation causing death while street racing,0,0,0,0,0
+Trois-Rivières ,Dangerous operation causing bodily harm while street racing,1,0,0,0,0
+Trois-Rivières ,Dangerous operation of motor vehicle while street racing,0,0,0,1,0
+Montréal  ,Total all violations,232753,230882,217098,209983,203035
+Montréal  ,Total Criminal Code traffic violations,14541,14341,13538,14147,14300
+Montréal  ,Total impaired driving (49),5779,5857,5700,5913,6008
+Montréal  ,Impaired operation causing death,8,3,5,7,7
+Montréal  ,Impaired operation (drugs) causing death,0,0,1,0,0
+Montréal  ,Impaired operation causing bodily harm,105,127,121,133,117
+Montréal  ,Impaired operation (drugs) causing bodily harm,0,2,3,2,1
+Montréal  ,Impaired operation of motor vehicle vessel or aircraft (51),5428,5398,5363,5699,5773
+Montréal  ,Impaired operation (drugs) vehicle vessel aircraft,1,30,47,52,104
+Montréal  ,Impaired operation failure to provide breath sample,229,288,156,20,6
+Montréal  ,Failure to comply or refusal (drugs),0,0,3,0,0
+Montréal  ,Impaired operation failure to provide blood sample,8,9,1,0,0
+Montréal  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Montréal  ,Total other Criminal Code traffic violations,8762,8484,7838,8234,8292
+Montréal  ,Dangerous operation causing death,9,6,5,2,4
+Montréal  ,Dangerous operation causing bodily harm,38,54,40,61,41
+Montréal  ,Dangerous operation of motor vehicle vessel or aircraft,381,384,348,322,317
+Montréal  ,Dangerous operation evading police causing death,1,1,0,0,0
+Montréal  ,Dangerous operation evading police causing bodily harm,5,5,4,2,8
+Montréal  ,Dangerous operation of motor vehicle evading police,227,175,225,247,208
+Montréal  ,Total fail to stop or remain (46),7569,7370,6785,7108,7274
+Montréal  ,Driving while prohibited,501,457,414,459,417
+Montréal  ,Other Criminal Code traffic violations,29,25,12,28,19
+Montréal  ,Causing death by criminal negligence while street racing,0,0,1,0,0
+Montréal  ,Causing bodily harm by criminal negligence while street racing,0,2,0,0,0
+Montréal  ,Dangerous operation causing death while street racing,0,1,0,0,0
+Montréal  ,Dangerous operation causing bodily harm while street racing,1,1,0,0,0
+Montréal  ,Dangerous operation of motor vehicle while street racing,1,3,4,5,4
+Ottawa-Gatineau  part ,Total all violations,48648,47089,44910,43987,43932
+Ottawa-Gatineau  part ,Total Criminal Code traffic violations,3032,3033,2908,2725,2727
+Ottawa-Gatineau  part ,Total impaired driving (49),982,905,922,823,822
+Ottawa-Gatineau  part ,Impaired operation causing death,2,1,3,1,1
+Ottawa-Gatineau  part ,Impaired operation (drugs) causing death,0,0,0,0,1
+Ottawa-Gatineau  part ,Impaired operation causing bodily harm,2,8,4,1,5
+Ottawa-Gatineau  part ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Ottawa-Gatineau  part ,Impaired operation of motor vehicle vessel or aircraft (51),849,752,774,689,683
+Ottawa-Gatineau  part ,Impaired operation (drugs) vehicle vessel aircraft,4,19,9,18,15
+Ottawa-Gatineau  part ,Impaired operation failure to provide breath sample,120,122,126,112,114
+Ottawa-Gatineau  part ,Failure to comply or refusal (drugs),1,2,1,0,2
+Ottawa-Gatineau  part ,Impaired operation failure to provide blood sample,2,1,5,2,1
+Ottawa-Gatineau  part ,Failure to provide blood sample (drugs),0,0,0,0,0
+Ottawa-Gatineau  part ,Total other Criminal Code traffic violations,2050,2128,1986,1902,1905
+Ottawa-Gatineau  part ,Dangerous operation causing death,2,0,3,1,0
+Ottawa-Gatineau  part ,Dangerous operation causing bodily harm,8,10,9,5,6
+Ottawa-Gatineau  part ,Dangerous operation of motor vehicle vessel or aircraft,126,133,121,107,117
+Ottawa-Gatineau  part ,Dangerous operation evading police causing death,0,0,0,0,0
+Ottawa-Gatineau  part ,Dangerous operation evading police causing bodily harm,0,1,1,1,0
+Ottawa-Gatineau  part ,Dangerous operation of motor vehicle evading police,9,13,13,9,8
+Ottawa-Gatineau  part ,Total fail to stop or remain (46),1825,1867,1740,1672,1686
+Ottawa-Gatineau  part ,Driving while prohibited,76,95,93,102,84
+Ottawa-Gatineau  part ,Other Criminal Code traffic violations,3,2,3,0,2
+Ottawa-Gatineau  part ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Ottawa-Gatineau  part ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Ottawa-Gatineau  part ,Dangerous operation causing death while street racing,0,0,0,0,0
+Ottawa-Gatineau  part ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Ottawa-Gatineau  part ,Dangerous operation of motor vehicle while street racing,1,7,3,5,2
+Kingston  ,Total all violations,9526,8691,8686,8651,8968
+Kingston  ,Total Criminal Code traffic violations,212,217,159,238,248
+Kingston  ,Total impaired driving (49),151,155,104,153,121
+Kingston  ,Impaired operation causing death,0,0,0,0,0
+Kingston  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Kingston  ,Impaired operation causing bodily harm,2,0,0,1,0
+Kingston  ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Kingston  ,Impaired operation of motor vehicle vessel or aircraft (51),145,146,102,146,110
+Kingston  ,Impaired operation (drugs) vehicle vessel aircraft,0,0,1,2,6
+Kingston  ,Impaired operation failure to provide breath sample,4,7,1,4,3
+Kingston  ,Failure to comply or refusal (drugs),0,0,0,0,2
+Kingston  ,Impaired operation failure to provide blood sample,0,2,0,0,0
+Kingston  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Kingston  ,Total other Criminal Code traffic violations,61,62,55,85,127
+Kingston  ,Dangerous operation causing death,1,0,0,0,0
+Kingston  ,Dangerous operation causing bodily harm,0,1,1,2,0
+Kingston  ,Dangerous operation of motor vehicle vessel or aircraft,23,28,23,14,27
+Kingston  ,Dangerous operation evading police causing death,0,0,0,0,0
+Kingston  ,Dangerous operation evading police causing bodily harm,0,0,0,0,0
+Kingston  ,Dangerous operation of motor vehicle evading police,7,1,1,2,1
+Kingston  ,Total fail to stop or remain (46),6,9,7,46,51
+Kingston  ,Driving while prohibited,22,21,20,17,47
+Kingston  ,Other Criminal Code traffic violations,2,1,2,4,1
+Kingston  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Kingston  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Kingston  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Kingston  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Kingston  ,Dangerous operation of motor vehicle while street racing,0,1,1,0,0
+Peterborough  ,Total all violations,7049,6921,6571,6280,6345
+Peterborough  ,Total Criminal Code traffic violations,271,275,283,335,367
+Peterborough  ,Total impaired driving (49),207,217,227,266,287
+Peterborough  ,Impaired operation causing death,0,1,0,0,0
+Peterborough  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Peterborough  ,Impaired operation causing bodily harm,0,1,0,2,0
+Peterborough  ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Peterborough  ,Impaired operation of motor vehicle vessel or aircraft (51),193,200,200,246,271
+Peterborough  ,Impaired operation (drugs) vehicle vessel aircraft,5,11,17,14,8
+Peterborough  ,Impaired operation failure to provide breath sample,9,4,10,4,8
+Peterborough  ,Failure to comply or refusal (drugs),0,0,0,0,0
+Peterborough  ,Impaired operation failure to provide blood sample,0,0,0,0,0
+Peterborough  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Peterborough  ,Total other Criminal Code traffic violations,64,58,56,69,80
+Peterborough  ,Dangerous operation causing death,0,0,0,0,0
+Peterborough  ,Dangerous operation causing bodily harm,0,2,0,1,1
+Peterborough  ,Dangerous operation of motor vehicle vessel or aircraft,28,22,20,19,25
+Peterborough  ,Dangerous operation evading police causing death,0,0,0,0,0
+Peterborough  ,Dangerous operation evading police causing bodily harm,0,0,0,0,0
+Peterborough  ,Dangerous operation of motor vehicle evading police,9,4,3,3,3
+Peterborough  ,Total fail to stop or remain (46),4,7,5,2,1
+Peterborough  ,Driving while prohibited,21,21,28,40,47
+Peterborough  ,Other Criminal Code traffic violations,1,2,0,4,3
+Peterborough  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Peterborough  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Peterborough  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Peterborough  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Peterborough  ,Dangerous operation of motor vehicle while street racing,1,0,0,0,0
+Toronto  ,Total all violations,245400,237511,228905,222788,210979
+Toronto  ,Total Criminal Code traffic violations,12305,12917,12675,13480,12934
+Toronto  ,Total impaired driving (49),6121,5681,5592,5922,5851
+Toronto  ,Impaired operation causing death,10,10,5,2,6
+Toronto  ,Impaired operation (drugs) causing death,0,0,0,1,0
+Toronto  ,Impaired operation causing bodily harm,35,33,23,23,22
+Toronto  ,Impaired operation (drugs) causing bodily harm,1,1,0,1,0
+Toronto  ,Impaired operation of motor vehicle vessel or aircraft (51),5619,5114,5006,5351,5337
+Toronto  ,Impaired operation (drugs) vehicle vessel aircraft,30,74,97,90,91
+Toronto  ,Impaired operation failure to provide breath sample,419,445,457,451,395
+Toronto  ,Failure to comply or refusal (drugs),1,0,2,0,0
+Toronto  ,Impaired operation failure to provide blood sample,6,4,0,3,0
+Toronto  ,Failure to provide blood sample (drugs),0,0,2,0,0
+Toronto  ,Total other Criminal Code traffic violations,6184,7236,7083,7558,7083
+Toronto  ,Dangerous operation causing death,16,14,10,8,6
+Toronto  ,Dangerous operation causing bodily harm,62,47,52,39,54
+Toronto  ,Dangerous operation of motor vehicle vessel or aircraft,1062,997,1003,958,929
+Toronto  ,Dangerous operation evading police causing death,0,0,0,0,0
+Toronto  ,Dangerous operation evading police causing bodily harm,1,4,3,1,0
+Toronto  ,Dangerous operation of motor vehicle evading police,120,104,106,111,124
+Toronto  ,Total fail to stop or remain (46),4559,5630,5462,5968,5561
+Toronto  ,Driving while prohibited,351,423,436,458,401
+Toronto  ,Other Criminal Code traffic violations,6,9,3,6,4
+Toronto  ,Causing death by criminal negligence while street racing,1,0,1,0,0
+Toronto  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Toronto  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Toronto  ,Dangerous operation causing bodily harm while street racing,2,1,2,0,1
+Toronto  ,Dangerous operation of motor vehicle while street racing,4,7,5,9,3
+Hamilton  ,Total all violations,41174,40156,39888,37827,35573
+Hamilton  ,Total Criminal Code traffic violations,1874,2003,1844,1897,1750
+Hamilton  ,Total impaired driving (49),868,912,835,824,813
+Hamilton  ,Impaired operation causing death,1,0,1,4,1
+Hamilton  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Hamilton  ,Impaired operation causing bodily harm,10,3,3,5,5
+Hamilton  ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Hamilton  ,Impaired operation of motor vehicle vessel or aircraft (51),802,840,778,774,755
+Hamilton  ,Impaired operation (drugs) vehicle vessel aircraft,1,10,7,9,13
+Hamilton  ,Impaired operation failure to provide breath sample,52,59,46,31,39
+Hamilton  ,Failure to comply or refusal (drugs),0,0,0,1,0
+Hamilton  ,Impaired operation failure to provide blood sample,2,0,0,0,0
+Hamilton  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Hamilton  ,Total other Criminal Code traffic violations,1006,1091,1009,1073,937
+Hamilton  ,Dangerous operation causing death,0,1,2,0,0
+Hamilton  ,Dangerous operation causing bodily harm,14,7,7,3,4
+Hamilton  ,Dangerous operation of motor vehicle vessel or aircraft,113,112,93,98,122
+Hamilton  ,Dangerous operation evading police causing death,0,1,0,0,0
+Hamilton  ,Dangerous operation evading police causing bodily harm,1,0,1,0,1
+Hamilton  ,Dangerous operation of motor vehicle evading police,33,25,26,11,21
+Hamilton  ,Total fail to stop or remain (46),776,850,801,848,717
+Hamilton  ,Driving while prohibited,67,94,78,112,71
+Hamilton  ,Other Criminal Code traffic violations,0,1,0,0,0
+Hamilton  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Hamilton  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Hamilton  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Hamilton  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Hamilton  ,Dangerous operation of motor vehicle while street racing,2,0,1,1,1
+St.Catharines-Niagara ,Total all violations,27279,25932,24853,22005,22519
+St.Catharines-Niagara ,Total Criminal Code traffic violations,1647,1648,1788,1649,1523
+St.Catharines-Niagara ,Total impaired driving (49),547,737,732,701,660
+St.Catharines-Niagara ,Impaired operation causing death,1,0,3,1,0
+St.Catharines-Niagara ,Impaired operation (drugs) causing death,0,0,0,0,0
+St.Catharines-Niagara ,Impaired operation causing bodily harm,6,5,2,7,6
+St.Catharines-Niagara ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+St.Catharines-Niagara ,Impaired operation of motor vehicle vessel or aircraft (51),520,701,689,663,619
+St.Catharines-Niagara ,Impaired operation (drugs) vehicle vessel aircraft,0,1,2,1,3
+St.Catharines-Niagara ,Impaired operation failure to provide breath sample,18,28,34,28,31
+St.Catharines-Niagara ,Failure to comply or refusal (drugs),0,2,0,0,1
+St.Catharines-Niagara ,Impaired operation failure to provide blood sample,2,0,2,0,0
+St.Catharines-Niagara ,Failure to provide blood sample (drugs),0,0,0,1,0
+St.Catharines-Niagara ,Total other Criminal Code traffic violations,1100,911,1056,948,863
+St.Catharines-Niagara ,Dangerous operation causing death,0,4,1,0,1
+St.Catharines-Niagara ,Dangerous operation causing bodily harm,4,3,2,3,4
+St.Catharines-Niagara ,Dangerous operation of motor vehicle vessel or aircraft,78,76,64,67,50
+St.Catharines-Niagara ,Dangerous operation evading police causing death,0,0,0,0,0
+St.Catharines-Niagara ,Dangerous operation evading police causing bodily harm,1,0,0,0,0
+St.Catharines-Niagara ,Dangerous operation of motor vehicle evading police,23,25,30,17,26
+St.Catharines-Niagara ,Total fail to stop or remain (46),939,732,870,767,689
+St.Catharines-Niagara ,Driving while prohibited,53,64,87,89,88
+St.Catharines-Niagara ,Other Criminal Code traffic violations,2,6,2,4,5
+St.Catharines-Niagara ,Causing death by criminal negligence while street racing,0,0,0,0,0
+St.Catharines-Niagara ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+St.Catharines-Niagara ,Dangerous operation causing death while street racing,0,0,0,0,0
+St.Catharines-Niagara ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+St.Catharines-Niagara ,Dangerous operation of motor vehicle while street racing,0,1,0,1,0
+Kitchener-Cambridge-Waterloo ,Total all violations,28962,31047,29040,27836,27069
+Kitchener-Cambridge-Waterloo ,Total Criminal Code traffic violations,992,951,959,1003,915
+Kitchener-Cambridge-Waterloo ,Total impaired driving (49),750,704,670,685,630
+Kitchener-Cambridge-Waterloo ,Impaired operation causing death,1,0,0,1,0
+Kitchener-Cambridge-Waterloo ,Impaired operation (drugs) causing death,0,0,0,0,0
+Kitchener-Cambridge-Waterloo ,Impaired operation causing bodily harm,2,1,2,1,1
+Kitchener-Cambridge-Waterloo ,Impaired operation (drugs) causing bodily harm,0,0,0,0,1
+Kitchener-Cambridge-Waterloo ,Impaired operation of motor vehicle vessel or aircraft (51),720,669,628,630,578
+Kitchener-Cambridge-Waterloo ,Impaired operation (drugs) vehicle vessel aircraft,1,4,6,14,15
+Kitchener-Cambridge-Waterloo ,Impaired operation failure to provide breath sample,25,28,34,38,35
+Kitchener-Cambridge-Waterloo ,Failure to comply or refusal (drugs),0,0,0,0,0
+Kitchener-Cambridge-Waterloo ,Impaired operation failure to provide blood sample,1,2,0,1,0
+Kitchener-Cambridge-Waterloo ,Failure to provide blood sample (drugs),0,0,0,0,0
+Kitchener-Cambridge-Waterloo ,Total other Criminal Code traffic violations,242,247,289,318,285
+Kitchener-Cambridge-Waterloo ,Dangerous operation causing death,1,0,0,2,0
+Kitchener-Cambridge-Waterloo ,Dangerous operation causing bodily harm,7,4,9,8,9
+Kitchener-Cambridge-Waterloo ,Dangerous operation of motor vehicle vessel or aircraft,159,128,151,146,149
+Kitchener-Cambridge-Waterloo ,Dangerous operation evading police causing death,0,0,0,0,0
+Kitchener-Cambridge-Waterloo ,Dangerous operation evading police causing bodily harm,0,0,0,0,0
+Kitchener-Cambridge-Waterloo ,Dangerous operation of motor vehicle evading police,10,5,7,12,14
+Kitchener-Cambridge-Waterloo ,Total fail to stop or remain (46),27,25,25,41,32
+Kitchener-Cambridge-Waterloo ,Driving while prohibited,37,83,94,109,79
+Kitchener-Cambridge-Waterloo ,Other Criminal Code traffic violations,1,1,3,0,1
+Kitchener-Cambridge-Waterloo ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Kitchener-Cambridge-Waterloo ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Kitchener-Cambridge-Waterloo ,Dangerous operation causing death while street racing,0,0,0,0,0
+Kitchener-Cambridge-Waterloo ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Kitchener-Cambridge-Waterloo ,Dangerous operation of motor vehicle while street racing,0,1,0,0,1
+Brantford  ,Total all violations,11622,11832,11104,10520,10648
+Brantford  ,Total Criminal Code traffic violations,384,376,310,298,264
+Brantford  ,Total impaired driving (49),227,236,208,201,180
+Brantford  ,Impaired operation causing death,0,1,2,1,0
+Brantford  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Brantford  ,Impaired operation causing bodily harm,2,2,3,1,2
+Brantford  ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Brantford  ,Impaired operation of motor vehicle vessel or aircraft (51),208,213,176,177,163
+Brantford  ,Impaired operation (drugs) vehicle vessel aircraft,0,1,4,2,0
+Brantford  ,Impaired operation failure to provide breath sample,16,18,20,20,15
+Brantford  ,Failure to comply or refusal (drugs),0,0,0,0,0
+Brantford  ,Impaired operation failure to provide blood sample,1,1,3,0,0
+Brantford  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Brantford  ,Total other Criminal Code traffic violations,157,140,102,97,84
+Brantford  ,Dangerous operation causing death,0,1,1,0,0
+Brantford  ,Dangerous operation causing bodily harm,4,2,4,2,1
+Brantford  ,Dangerous operation of motor vehicle vessel or aircraft,68,70,39,46,33
+Brantford  ,Dangerous operation evading police causing death,0,0,0,0,0
+Brantford  ,Dangerous operation evading police causing bodily harm,0,0,0,0,1
+Brantford  ,Dangerous operation of motor vehicle evading police,26,21,14,10,12
+Brantford  ,Total fail to stop or remain (46),20,7,10,10,10
+Brantford  ,Driving while prohibited,38,37,33,27,27
+Brantford  ,Other Criminal Code traffic violations,1,1,1,2,0
+Brantford  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Brantford  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Brantford  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Brantford  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Brantford  ,Dangerous operation of motor vehicle while street racing,0,1,0,0,0
+Guelph  ,Total all violations,6412,6602,5884,5551,5781
+Guelph  ,Total Criminal Code traffic violations,234,232,217,238,226
+Guelph  ,Total impaired driving (49),203,194,180,197,187
+Guelph  ,Impaired operation causing death,0,0,0,0,0
+Guelph  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Guelph  ,Impaired operation causing bodily harm,0,0,0,2,1
+Guelph  ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Guelph  ,Impaired operation of motor vehicle vessel or aircraft (51),191,187,174,179,175
+Guelph  ,Impaired operation (drugs) vehicle vessel aircraft,0,0,0,0,1
+Guelph  ,Impaired operation failure to provide breath sample,12,7,6,16,10
+Guelph  ,Failure to comply or refusal (drugs),0,0,0,0,0
+Guelph  ,Impaired operation failure to provide blood sample,0,0,0,0,0
+Guelph  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Guelph  ,Total other Criminal Code traffic violations,31,38,37,41,39
+Guelph  ,Dangerous operation causing death,0,0,0,0,0
+Guelph  ,Dangerous operation causing bodily harm,0,1,3,1,4
+Guelph  ,Dangerous operation of motor vehicle vessel or aircraft,7,12,14,15,22
+Guelph  ,Dangerous operation evading police causing death,0,0,0,0,0
+Guelph  ,Dangerous operation evading police causing bodily harm,0,0,0,0,0
+Guelph  ,Dangerous operation of motor vehicle evading police,2,1,2,0,1
+Guelph  ,Total fail to stop or remain (46),4,4,6,5,3
+Guelph  ,Driving while prohibited,18,20,12,20,9
+Guelph  ,Other Criminal Code traffic violations,0,0,0,0,0
+Guelph  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Guelph  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Guelph  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Guelph  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Guelph  ,Dangerous operation of motor vehicle while street racing,0,0,0,0,0
+London ,Total all violations,36397,36317,33506,31715,31292
+London ,Total Criminal Code traffic violations,1520,1549,1408,1422,1469
+London ,Total impaired driving (49),590,565,504,447,490
+London ,Impaired operation causing death,1,2,1,3,1
+London ,Impaired operation (drugs) causing death,0,0,0,0,0
+London ,Impaired operation causing bodily harm,5,6,3,4,3
+London ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+London ,Impaired operation of motor vehicle vessel or aircraft (51),565,520,464,402,443
+London ,Impaired operation (drugs) vehicle vessel aircraft,1,5,13,14,15
+London ,Impaired operation failure to provide breath sample,18,32,22,22,27
+London ,Failure to comply or refusal (drugs),0,0,0,2,1
+London ,Impaired operation failure to provide blood sample,0,0,1,0,0
+London ,Failure to provide blood sample (drugs),0,0,0,0,0
+London ,Total other Criminal Code traffic violations,930,984,904,975,979
+London ,Dangerous operation causing death,1,0,0,0,0
+London ,Dangerous operation causing bodily harm,3,2,0,5,9
+London ,Dangerous operation of motor vehicle vessel or aircraft,90,67,63,67,62
+London ,Dangerous operation evading police causing death,0,0,0,0,0
+London ,Dangerous operation evading police causing bodily harm,2,1,0,1,0
+London ,Dangerous operation of motor vehicle evading police,35,19,19,23,18
+London ,Total fail to stop or remain (46),715,811,727,792,810
+London ,Driving while prohibited,82,83,92,87,79
+London ,Other Criminal Code traffic violations,2,1,3,0,1
+London ,Causing death by criminal negligence while street racing,0,0,0,0,0
+London ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+London ,Dangerous operation causing death while street racing,0,0,0,0,0
+London ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+London ,Dangerous operation of motor vehicle while street racing,0,0,0,0,0
+Windsor ,Total all violations,19465,18877,18126,16793,17184
+Windsor ,Total Criminal Code traffic violations,686,745,741,698,571
+Windsor ,Total impaired driving (49),319,346,330,318,254
+Windsor ,Impaired operation causing death,3,0,1,1,2
+Windsor ,Impaired operation (drugs) causing death,0,0,0,0,0
+Windsor ,Impaired operation causing bodily harm,4,3,3,0,1
+Windsor ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Windsor ,Impaired operation of motor vehicle vessel or aircraft (51),292,325,308,291,235
+Windsor ,Impaired operation (drugs) vehicle vessel aircraft,0,0,9,9,3
+Windsor ,Impaired operation failure to provide breath sample,20,18,9,16,12
+Windsor ,Failure to comply or refusal (drugs),0,0,0,0,0
+Windsor ,Impaired operation failure to provide blood sample,0,0,0,1,1
+Windsor ,Failure to provide blood sample (drugs),0,0,0,0,0
+Windsor ,Total other Criminal Code traffic violations,367,399,411,380,317
+Windsor ,Dangerous operation causing death,0,0,0,0,0
+Windsor ,Dangerous operation causing bodily harm,1,2,5,1,2
+Windsor ,Dangerous operation of motor vehicle vessel or aircraft,36,32,25,19,17
+Windsor ,Dangerous operation evading police causing death,0,0,0,0,0
+Windsor ,Dangerous operation evading police causing bodily harm,0,0,0,0,0
+Windsor ,Dangerous operation of motor vehicle evading police,10,12,4,9,5
+Windsor ,Total fail to stop or remain (46),280,312,326,301,251
+Windsor ,Driving while prohibited,40,41,35,35,15
+Windsor ,Other Criminal Code traffic violations,0,0,0,0,1
+Windsor ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Windsor ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Windsor ,Dangerous operation causing death while street racing,0,0,0,0,0
+Windsor ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Windsor ,Dangerous operation of motor vehicle while street racing,0,0,16,15,26
+Barrie  ,Total all violations,11836,12118,11565,10554,10236
+Barrie  ,Total Criminal Code traffic violations,383,478,402,294,348
+Barrie  ,Total impaired driving (49),292,373,323,225,279
+Barrie  ,Impaired operation causing death,1,0,0,0,0
+Barrie  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Barrie  ,Impaired operation causing bodily harm,3,1,0,1,0
+Barrie  ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Barrie  ,Impaired operation of motor vehicle vessel or aircraft (51),271,351,301,205,259
+Barrie  ,Impaired operation (drugs) vehicle vessel aircraft,3,9,12,7,9
+Barrie  ,Impaired operation failure to provide breath sample,14,12,10,12,10
+Barrie  ,Failure to comply or refusal (drugs),0,0,0,0,0
+Barrie  ,Impaired operation failure to provide blood sample,0,0,0,0,1
+Barrie  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Barrie  ,Total other Criminal Code traffic violations,91,105,79,69,69
+Barrie  ,Dangerous operation causing death,0,0,0,0,0
+Barrie  ,Dangerous operation causing bodily harm,3,4,3,2,0
+Barrie  ,Dangerous operation of motor vehicle vessel or aircraft,43,36,22,26,26
+Barrie  ,Dangerous operation evading police causing death,0,0,0,0,0
+Barrie  ,Dangerous operation evading police causing bodily harm,0,0,0,0,0
+Barrie  ,Dangerous operation of motor vehicle evading police,5,3,6,3,1
+Barrie  ,Total fail to stop or remain (46),22,31,21,10,13
+Barrie  ,Driving while prohibited,17,30,27,28,26
+Barrie  ,Other Criminal Code traffic violations,1,1,0,0,2
+Barrie  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Barrie  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Barrie  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Barrie  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Barrie  ,Dangerous operation of motor vehicle while street racing,0,0,0,0,1
+Sudbury ,Total all violations,9726,9810,10309,9703,9112
+Sudbury ,Total Criminal Code traffic violations,310,299,266,290,293
+Sudbury ,Total impaired driving (49),200,194,189,206,187
+Sudbury ,Impaired operation causing death,1,2,0,1,0
+Sudbury ,Impaired operation (drugs) causing death,0,0,0,0,0
+Sudbury ,Impaired operation causing bodily harm,5,2,1,4,4
+Sudbury ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Sudbury ,Impaired operation of motor vehicle vessel or aircraft (51),187,179,172,190,169
+Sudbury ,Impaired operation (drugs) vehicle vessel aircraft,0,1,0,1,1
+Sudbury ,Impaired operation failure to provide breath sample,6,9,14,10,12
+Sudbury ,Failure to comply or refusal (drugs),0,0,0,0,0
+Sudbury ,Impaired operation failure to provide blood sample,1,1,2,0,0
+Sudbury ,Failure to provide blood sample (drugs),0,0,0,0,1
+Sudbury ,Total other Criminal Code traffic violations,110,105,77,84,106
+Sudbury ,Dangerous operation causing death,0,0,0,1,0
+Sudbury ,Dangerous operation causing bodily harm,3,4,1,5,3
+Sudbury ,Dangerous operation of motor vehicle vessel or aircraft,53,49,35,37,49
+Sudbury ,Dangerous operation evading police causing death,0,0,0,0,0
+Sudbury ,Dangerous operation evading police causing bodily harm,0,0,0,0,0
+Sudbury ,Dangerous operation of motor vehicle evading police,8,9,3,1,0
+Sudbury ,Total fail to stop or remain (46),13,5,4,2,9
+Sudbury ,Driving while prohibited,32,37,34,38,45
+Sudbury ,Other Criminal Code traffic violations,0,0,0,0,0
+Sudbury ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Sudbury ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Sudbury ,Dangerous operation causing death while street racing,0,0,0,0,0
+Sudbury ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Sudbury ,Dangerous operation of motor vehicle while street racing,1,1,0,0,0
+Thunder Bay ,Total all violations,10858,11644,11144,10635,8981
+Thunder Bay ,Total Criminal Code traffic violations,211,215,231,252,251
+Thunder Bay ,Total impaired driving (49),168,172,190,192,192
+Thunder Bay ,Impaired operation causing death,0,0,1,0,0
+Thunder Bay ,Impaired operation (drugs) causing death,0,0,0,0,0
+Thunder Bay ,Impaired operation causing bodily harm,1,0,1,3,1
+Thunder Bay ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Thunder Bay ,Impaired operation of motor vehicle vessel or aircraft (51),164,170,180,181,181
+Thunder Bay ,Impaired operation (drugs) vehicle vessel aircraft,0,0,1,1,0
+Thunder Bay ,Impaired operation failure to provide breath sample,3,2,6,7,10
+Thunder Bay ,Failure to comply or refusal (drugs),0,0,0,0,0
+Thunder Bay ,Impaired operation failure to provide blood sample,0,0,1,0,0
+Thunder Bay ,Failure to provide blood sample (drugs),0,0,0,0,0
+Thunder Bay ,Total other Criminal Code traffic violations,43,43,41,60,59
+Thunder Bay ,Dangerous operation causing death,1,0,0,0,0
+Thunder Bay ,Dangerous operation causing bodily harm,1,1,2,3,1
+Thunder Bay ,Dangerous operation of motor vehicle vessel or aircraft,26,26,20,24,27
+Thunder Bay ,Dangerous operation evading police causing death,0,0,0,0,0
+Thunder Bay ,Dangerous operation evading police causing bodily harm,0,0,0,0,0
+Thunder Bay ,Dangerous operation of motor vehicle evading police,4,0,1,4,3
+Thunder Bay ,Total fail to stop or remain (46),0,6,2,3,3
+Thunder Bay ,Driving while prohibited,11,10,15,25,25
+Thunder Bay ,Other Criminal Code traffic violations,0,0,1,1,0
+Thunder Bay ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Thunder Bay ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Thunder Bay ,Dangerous operation causing death while street racing,0,0,0,0,0
+Thunder Bay ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Thunder Bay ,Dangerous operation of motor vehicle while street racing,0,0,0,0,0
+Winnipeg  ,Total all violations,64548,72456,60538,53482,52747
+Winnipeg  ,Total Criminal Code traffic violations,1070,1280,1229,1202,1107
+Winnipeg  ,Total impaired driving (49),843,977,945,971,859
+Winnipeg  ,Impaired operation causing death,3,1,3,4,7
+Winnipeg  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Winnipeg  ,Impaired operation causing bodily harm,15,25,15,20,13
+Winnipeg  ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Winnipeg  ,Impaired operation of motor vehicle vessel or aircraft (51),783,910,893,921,810
+Winnipeg  ,Impaired operation (drugs) vehicle vessel aircraft,2,5,8,8,8
+Winnipeg  ,Impaired operation failure to provide breath sample,37,35,25,18,20
+Winnipeg  ,Failure to comply or refusal (drugs),0,0,0,0,0
+Winnipeg  ,Impaired operation failure to provide blood sample,3,1,1,0,1
+Winnipeg  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Winnipeg  ,Total other Criminal Code traffic violations,227,303,284,231,248
+Winnipeg  ,Dangerous operation causing death,4,1,1,3,4
+Winnipeg  ,Dangerous operation causing bodily harm,10,13,11,3,9
+Winnipeg  ,Dangerous operation of motor vehicle vessel or aircraft,86,122,92,63,76
+Winnipeg  ,Dangerous operation evading police causing death,0,0,1,0,0
+Winnipeg  ,Dangerous operation evading police causing bodily harm,0,0,0,0,1
+Winnipeg  ,Dangerous operation of motor vehicle evading police,30,21,30,19,22
+Winnipeg  ,Total fail to stop or remain (46),24,45,47,39,33
+Winnipeg  ,Driving while prohibited,72,91,97,99,103
+Winnipeg  ,Other Criminal Code traffic violations,0,2,0,0,0
+Winnipeg  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Winnipeg  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Winnipeg  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Winnipeg  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Winnipeg  ,Dangerous operation of motor vehicle while street racing,1,8,5,5,0
+Regina ,Total all violations,27378,25445,24489,24182,23071
+Regina ,Total Criminal Code traffic violations,3475,1993,1867,1380,1604
+Regina ,Total impaired driving (49),576,661,828,818,764
+Regina ,Impaired operation causing death,2,0,1,0,0
+Regina ,Impaired operation (drugs) causing death,0,0,0,0,0
+Regina ,Impaired operation causing bodily harm,20,13,13,17,9
+Regina ,Impaired operation (drugs) causing bodily harm,0,1,0,0,0
+Regina ,Impaired operation of motor vehicle vessel or aircraft (51),544,625,794,778,727
+Regina ,Impaired operation (drugs) vehicle vessel aircraft,0,8,11,9,9
+Regina ,Impaired operation failure to provide breath sample,10,12,9,14,19
+Regina ,Failure to comply or refusal (drugs),0,0,0,0,0
+Regina ,Impaired operation failure to provide blood sample,0,2,0,0,0
+Regina ,Failure to provide blood sample (drugs),0,0,0,0,0
+Regina ,Total other Criminal Code traffic violations,2899,1332,1039,562,840
+Regina ,Dangerous operation causing death,0,0,0,0,0
+Regina ,Dangerous operation causing bodily harm,8,7,9,8,4
+Regina ,Dangerous operation of motor vehicle vessel or aircraft,50,70,62,75,69
+Regina ,Dangerous operation evading police causing death,0,0,0,0,0
+Regina ,Dangerous operation evading police causing bodily harm,3,0,1,0,0
+Regina ,Dangerous operation of motor vehicle evading police,92,83,96,89,101
+Regina ,Total fail to stop or remain (46),2665,1102,800,309,586
+Regina ,Driving while prohibited,78,64,71,77,79
+Regina ,Other Criminal Code traffic violations,3,3,0,1,1
+Regina ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Regina ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Regina ,Dangerous operation causing death while street racing,0,0,0,0,0
+Regina ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Regina ,Dangerous operation of motor vehicle while street racing,0,3,0,3,0
+Saskatoon ,Total all violations,30300,29352,28011,28536,26741
+Saskatoon ,Total Criminal Code traffic violations,977,966,973,966,940
+Saskatoon ,Total impaired driving (49),731,757,749,723,728
+Saskatoon ,Impaired operation causing death,1,1,0,0,3
+Saskatoon ,Impaired operation (drugs) causing death,0,0,0,0,0
+Saskatoon ,Impaired operation causing bodily harm,12,19,13,12,15
+Saskatoon ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Saskatoon ,Impaired operation of motor vehicle vessel or aircraft (51),695,702,690,672,689
+Saskatoon ,Impaired operation (drugs) vehicle vessel aircraft,1,3,9,16,1
+Saskatoon ,Impaired operation failure to provide breath sample,22,31,36,23,19
+Saskatoon ,Failure to comply or refusal (drugs),0,0,0,0,1
+Saskatoon ,Impaired operation failure to provide blood sample,0,0,1,0,0
+Saskatoon ,Failure to provide blood sample (drugs),0,1,0,0,0
+Saskatoon ,Total other Criminal Code traffic violations,246,209,224,243,212
+Saskatoon ,Dangerous operation causing death,1,0,2,2,0
+Saskatoon ,Dangerous operation causing bodily harm,8,6,7,8,3
+Saskatoon ,Dangerous operation of motor vehicle vessel or aircraft,75,53,56,50,52
+Saskatoon ,Dangerous operation evading police causing death,0,0,0,0,0
+Saskatoon ,Dangerous operation evading police causing bodily harm,1,1,0,2,1
+Saskatoon ,Dangerous operation of motor vehicle evading police,22,27,40,49,31
+Saskatoon ,Total fail to stop or remain (46),84,61,55,72,72
+Saskatoon ,Driving while prohibited,51,58,64,60,52
+Saskatoon ,Other Criminal Code traffic violations,1,0,0,0,0
+Saskatoon ,Causing death by criminal negligence while street racing,1,0,0,0,0
+Saskatoon ,Causing bodily harm by criminal negligence while street racing,0,1,0,0,0
+Saskatoon ,Dangerous operation causing death while street racing,0,0,0,0,0
+Saskatoon ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Saskatoon ,Dangerous operation of motor vehicle while street racing,2,2,0,0,1
+Calgary ,Total all violations,73257,71234,68176,64480,62216
+Calgary ,Total Criminal Code traffic violations,2883,3051,2953,3220,3190
+Calgary ,Total impaired driving (49),2205,2358,2384,2617,2618
+Calgary ,Impaired operation causing death,3,3,2,4,3
+Calgary ,Impaired operation (drugs) causing death,0,1,0,0,0
+Calgary ,Impaired operation causing bodily harm,15,19,15,10,11
+Calgary ,Impaired operation (drugs) causing bodily harm,0,0,0,1,0
+Calgary ,Impaired operation of motor vehicle vessel or aircraft (51),2067,2190,2232,2405,2406
+Calgary ,Impaired operation (drugs) vehicle vessel aircraft,2,21,29,37,27
+Calgary ,Impaired operation failure to provide breath sample,117,121,105,156,171
+Calgary ,Failure to comply or refusal (drugs),0,2,1,3,0
+Calgary ,Impaired operation failure to provide blood sample,1,1,0,0,0
+Calgary ,Failure to provide blood sample (drugs),0,0,0,1,0
+Calgary ,Total other Criminal Code traffic violations,678,693,569,603,572
+Calgary ,Dangerous operation causing death,2,0,0,2,4
+Calgary ,Dangerous operation causing bodily harm,22,16,14,20,7
+Calgary ,Dangerous operation of motor vehicle vessel or aircraft,219,220,178,190,159
+Calgary ,Dangerous operation evading police causing death,0,0,0,0,0
+Calgary ,Dangerous operation evading police causing bodily harm,2,1,0,2,1
+Calgary ,Dangerous operation of motor vehicle evading police,26,32,13,23,15
+Calgary ,Total fail to stop or remain (46),228,207,169,182,195
+Calgary ,Driving while prohibited,175,215,191,183,188
+Calgary ,Other Criminal Code traffic violations,2,0,2,1,1
+Calgary ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Calgary ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Calgary ,Dangerous operation causing death while street racing,0,0,0,0,0
+Calgary ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Calgary ,Dangerous operation of motor vehicle while street racing,2,2,2,0,2
+Edmonton ,Total all violations,111627,111038,102537,92489,92309
+Edmonton ,Total Criminal Code traffic violations,5807,6001,5652,5425,5181
+Edmonton ,Total impaired driving (49),4085,4223,4051,3933,3643
+Edmonton ,Impaired operation causing death,4,9,3,4,3
+Edmonton ,Impaired operation (drugs) causing death,0,0,0,0,0
+Edmonton ,Impaired operation causing bodily harm,27,22,25,27,23
+Edmonton ,Impaired operation (drugs) causing bodily harm,0,1,1,0,0
+Edmonton ,Impaired operation of motor vehicle vessel or aircraft (51),3911,3961,3729,3591,3298
+Edmonton ,Impaired operation (drugs) vehicle vessel aircraft,41,104,137,151,129
+Edmonton ,Impaired operation failure to provide breath sample,102,124,155,157,186
+Edmonton ,Failure to comply or refusal (drugs),0,0,1,2,3
+Edmonton ,Impaired operation failure to provide blood sample,0,0,0,1,1
+Edmonton ,Failure to provide blood sample (drugs),0,2,0,0,0
+Edmonton ,Total other Criminal Code traffic violations,1722,1778,1601,1492,1538
+Edmonton ,Dangerous operation causing death,0,4,2,1,0
+Edmonton ,Dangerous operation causing bodily harm,26,28,19,17,16
+Edmonton ,Dangerous operation of motor vehicle vessel or aircraft,334,311,263,249,282
+Edmonton ,Dangerous operation evading police causing death,0,0,0,0,1
+Edmonton ,Dangerous operation evading police causing bodily harm,1,2,1,1,1
+Edmonton ,Dangerous operation of motor vehicle evading police,105,107,104,87,93
+Edmonton ,Total fail to stop or remain (46),371,451,367,322,331
+Edmonton ,Driving while prohibited,884,870,842,808,808
+Edmonton ,Other Criminal Code traffic violations,1,1,0,1,1
+Edmonton ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Edmonton ,Causing bodily harm by criminal negligence while street racing,0,0,(,0,1
+Edmonton ,Dangerous operation causing death while street racing,0,0,1,1,0
+Edmonton ,Dangerous operation causing bodily harm while street racing,0,1,0,0,0
+Edmonton ,Dangerous operation of motor vehicle while street racing,0,3,2,5,4
+Kelowna   ,Total all violations,21080,20834,19545,18042,19003
+Kelowna   ,Total Criminal Code traffic violations,835,1057,1161,1292,1057
+Kelowna   ,Total impaired driving (49),544,808,865,1067,873
+Kelowna   ,Impaired operation causing death,0,3,1,0,1
+Kelowna   ,Impaired operation (drugs) causing death,0,0,0,0,0
+Kelowna   ,Impaired operation causing bodily harm,2,6,3,3,4
+Kelowna   ,Impaired operation (drugs) causing bodily harm,0,0,0,1,0
+Kelowna   ,Impaired operation of motor vehicle vessel or aircraft (51),498,730,796,988,792
+Kelowna   ,Impaired operation (drugs) vehicle vessel aircraft,8,13,12,16,23
+Kelowna   ,Impaired operation failure to provide breath sample,35,53,53,58,51
+Kelowna   ,Failure to comply or refusal (drugs),0,0,0,0,1
+Kelowna   ,Impaired operation failure to provide blood sample,1,3,0,1,1
+Kelowna   ,Failure to provide blood sample (drugs),0,0,0,0,0
+Kelowna   ,Total other Criminal Code traffic violations,291,249,296,225,184
+Kelowna   ,Dangerous operation causing death,3,3,0,1,1
+Kelowna   ,Dangerous operation causing bodily harm,2,2,2,3,0
+Kelowna   ,Dangerous operation of motor vehicle vessel or aircraft,19,17,27,26,14
+Kelowna   ,Dangerous operation evading police causing death,0,0,0,0,0
+Kelowna   ,Dangerous operation evading police causing bodily harm,0,0,1,0,0
+Kelowna   ,Dangerous operation of motor vehicle evading police,22,21,25,33,22
+Kelowna   ,Total fail to stop or remain (46),191,154,160,120,120
+Kelowna   ,Driving while prohibited,54,51,77,42,26
+Kelowna   ,Other Criminal Code traffic violations,0,0,3,0,0
+Kelowna   ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Kelowna   ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Kelowna   ,Dangerous operation causing death while street racing,0,0,0,0,0
+Kelowna   ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Kelowna   ,Dangerous operation of motor vehicle while street racing,0,1,1,0,1
+Abbotsford-Mission   ,Total all violations,18069,15060,14727,13405,12591
+Abbotsford-Mission   ,Total Criminal Code traffic violations,655,703,734,745,602
+Abbotsford-Mission   ,Total impaired driving (49),521,596,622,652,522
+Abbotsford-Mission   ,Impaired operation causing death,1,0,1,0,1
+Abbotsford-Mission   ,Impaired operation (drugs) causing death,0,0,1,0,0
+Abbotsford-Mission   ,Impaired operation causing bodily harm,5,4,4,2,0
+Abbotsford-Mission   ,Impaired operation (drugs) causing bodily harm,0,0,0,0,0
+Abbotsford-Mission   ,Impaired operation of motor vehicle vessel or aircraft (51),493,548,563,589,455
+Abbotsford-Mission   ,Impaired operation (drugs) vehicle vessel aircraft,0,9,12,3,10
+Abbotsford-Mission   ,Impaired operation failure to provide breath sample,22,35,41,58,55
+Abbotsford-Mission   ,Failure to comply or refusal (drugs),0,0,0,0,0
+Abbotsford-Mission   ,Impaired operation failure to provide blood sample,0,0,0,0,1
+Abbotsford-Mission   ,Failure to provide blood sample (drugs),0,0,0,0,0
+Abbotsford-Mission   ,Total other Criminal Code traffic violations,134,107,112,93,80
+Abbotsford-Mission   ,Dangerous operation causing death,1,0,3,1,2
+Abbotsford-Mission   ,Dangerous operation causing bodily harm,2,2,2,1,0
+Abbotsford-Mission   ,Dangerous operation of motor vehicle vessel or aircraft,18,9,14,7,16
+Abbotsford-Mission   ,Dangerous operation evading police causing death,0,0,0,0,0
+Abbotsford-Mission   ,Dangerous operation evading police causing bodily harm,0,0,0,1,0
+Abbotsford-Mission   ,Dangerous operation of motor vehicle evading police,43,40,38,30,23
+Abbotsford-Mission   ,Total fail to stop or remain (46),26,10,20,17,16
+Abbotsford-Mission   ,Driving while prohibited,43,46,35,36,22
+Abbotsford-Mission   ,Other Criminal Code traffic violations,0,0,0,0,0
+Abbotsford-Mission   ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Abbotsford-Mission   ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Abbotsford-Mission   ,Dangerous operation causing death while street racing,0,0,0,0,0
+Abbotsford-Mission   ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Abbotsford-Mission   ,Dangerous operation of motor vehicle while street racing,1,0,0,0,1
+Vancouver  ,Total all violations,218150,209314,201931,195258,191036
+Vancouver  ,Total Criminal Code traffic violations,8147,9151,8539,9186,7024
+Vancouver  ,Total impaired driving (49),5685,6809,6102,7026,4884
+Vancouver  ,Impaired operation causing death,10,7,7,6,2
+Vancouver  ,Impaired operation (drugs) causing death,0,0,0,0,0
+Vancouver  ,Impaired operation causing bodily harm,31,23,22,21,14
+Vancouver  ,Impaired operation (drugs) causing bodily harm,1,1,1,0,1
+Vancouver  ,Impaired operation of motor vehicle vessel or aircraft (51),5224,6261,5545,6372,4308
+Vancouver  ,Impaired operation (drugs) vehicle vessel aircraft,16,76,72,78,83
+Vancouver  ,Impaired operation failure to provide breath sample,400,435,445,547,472
+Vancouver  ,Failure to comply or refusal (drugs),0,0,2,1,2
+Vancouver  ,Impaired operation failure to provide blood sample,3,6,8,1,2
+Vancouver  ,Failure to provide blood sample (drugs),0,0,0,0,0
+Vancouver  ,Total other Criminal Code traffic violations,2462,2342,2437,2160,2140
+Vancouver  ,Dangerous operation causing death,8,5,3,7,0
+Vancouver  ,Dangerous operation causing bodily harm,18,19,21,17,13
+Vancouver  ,Dangerous operation of motor vehicle vessel or aircraft,174,134,165,135,181
+Vancouver  ,Dangerous operation evading police causing death,0,1,0,2,0
+Vancouver  ,Dangerous operation evading police causing bodily harm,2,5,4,3,2
+Vancouver  ,Dangerous operation of motor vehicle evading police,248,268,372,332,274
+Vancouver  ,Total fail to stop or remain (46),1643,1594,1553,1336,1415
+Vancouver  ,Driving while prohibited,364,310,308,316,250
+Vancouver  ,Other Criminal Code traffic violations,0,0,0,0,0
+Vancouver  ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Vancouver  ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Vancouver  ,Dangerous operation causing death while street racing,0,0,0,0,0
+Vancouver  ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+Vancouver  ,Dangerous operation of motor vehicle while street racing,5,6,11,12,5
+Victoria   ,Total all violations,32898,32160,31184,26764,25040
+Victoria   ,Total Criminal Code traffic violations,1477,1575,1350,1389,1151
+Victoria   ,Total impaired driving (49),1222,1344,1134,1263,1018
+Victoria   ,Impaired operation causing death,2,0,0,1,0
+Victoria   ,Impaired operation (drugs) causing death,0,0,0,0,0
+Victoria   ,Impaired operation causing bodily harm,5,6,4,2,5
+Victoria   ,Impaired operation (drugs) causing bodily harm,0,0,0,0,1
+Victoria   ,Impaired operation of motor vehicle vessel or aircraft (51),1175,1262,1057,1142,908
+Victoria   ,Impaired operation (drugs) vehicle vessel aircraft,10,39,40,54,39
+Victoria   ,Impaired operation failure to provide breath sample,29,35,33,64,63
+Victoria   ,Failure to comply or refusal (drugs),0,0,0,0,0
+Victoria   ,Impaired operation failure to provide blood sample,1,2,0,0,2
+Victoria   ,Failure to provide blood sample (drugs),0,0,0,0,0
+Victoria   ,Total other Criminal Code traffic violations,255,231,216,126,133
+Victoria   ,Dangerous operation causing death,2,2,1,1,0
+Victoria   ,Dangerous operation causing bodily harm,8,8,4,3,3
+Victoria   ,Dangerous operation of motor vehicle vessel or aircraft,17,23,24,15,22
+Victoria   ,Dangerous operation evading police causing death,0,0,0,0,0
+Victoria   ,Dangerous operation evading police causing bodily harm,0,0,1,0,0
+Victoria   ,Dangerous operation of motor vehicle evading police,21,24,28,12,21
+Victoria   ,Total fail to stop or remain (46),134,91,103,64,68
+Victoria   ,Driving while prohibited,67,74,50,30,18
+Victoria   ,Other Criminal Code traffic violations,2,0,1,0,1
+Victoria   ,Causing death by criminal negligence while street racing,0,0,0,0,0
+Victoria   ,Causing bodily harm by criminal negligence while street racing,0,0,0,0,0
+Victoria   ,Dangerous operation causing death while street racing,0,0,0,0,0
+Victoria   ,Dangerous operation causing bodily harm while street racing,0,1,0,0,0
+Victoria   ,Dangerous operation of motor vehicle while street racing,4,8,4,1,0
+St. John's   ,Total all violations,14225,15475,16624,15721,15315
+St. John's   ,Total Criminal Code traffic violations,839,900,995,1153,1187
+St. John's   ,Total impaired driving (49),758,804,898,1056,1102
+St. John's   ,Impaired operation causing death,0,0,0,0,0
+St. John's   ,Impaired operation (drugs) causing death,0,0,0,0,0
+St. John's   ,Impaired operation causing bodily harm,4,3,4,4,5
+St. John's   ,Impaired operation (drugs) causing bodily harm,0,1,1,0,0
+St. John's   ,Impaired operation of motor vehicle vessel or aircraft (51),730,734,825,999,1021
+St. John's   ,Impaired operation (drugs) vehicle vessel aircraft,5,28,41,34,50
+St. John's   ,Impaired operation failure to provide breath sample,17,29,22,17,23
+St. John's   ,Failure to comply or refusal (drugs),0,4,1,2,1
+St. John's   ,Impaired operation failure to provide blood sample,2,5,4,0,2
+St. John's   ,Failure to provide blood sample (drugs),0,0,0,0,0
+St. John's   ,Total other Criminal Code traffic violations,81,96,97,97,85
+St. John's   ,Dangerous operation causing death,1,2,0,0,0
+St. John's   ,Dangerous operation causing bodily harm,2,1,2,1,1
+St. John's   ,Dangerous operation of motor vehicle vessel or aircraft,10,9,11,3,9
+St. John's   ,Dangerous operation evading police causing death,0,0,0,0,0
+St. John's   ,Dangerous operation evading police causing bodily harm,0,1,2,0,0
+St. John's   ,Dangerous operation of motor vehicle evading police,17,10,17,24,18
+St. John's   ,Total fail to stop or remain (46),10,10,19,12,13
+St. John's   ,Driving while prohibited,35,59,44,50,43
+St. John's   ,Other Criminal Code traffic violations,4,3,1,5,1
+St. John's   ,Causing death by criminal negligence while street racing,0,0,0,2,0
+St. John's   ,Causing bodily harm by criminal negligence while street racing,0,0,1,0,0
+St. John's   ,Dangerous operation causing death while street racing,1,0,0,0,0
+St. John's   ,Dangerous operation causing bodily harm while street racing,0,0,0,0,0
+St. John's   ,Dangerous operation of motor vehicle while street racing,1,1,0,0,0

@@ -1,0 +1,140 @@
+Ottawa-Gatineau,Homicide,Actual incidents,15.0,12.0,14.0,16.0,13.0
+Ottawa-Gatineau,Homicide,Rate per 100000 population,1.24,0.98,1.13,1.27,1.02
+Ottawa-Gatineau,Murder first degree,Actual incidents,7.0,3.0,6.0,10.0,9.0
+Ottawa-Gatineau,Murder first degree,Rate per 100000 population,0.58,0.24,0.48,0.8,0.71
+Ottawa-Gatineau,Murder second degree,Actual incidents,6.0,9.0,5.0,3.0,4.0
+Ottawa-Gatineau,Murder second degree,Rate per 100000 population,0.5,0.73,0.4,0.24,0.31
+Ottawa-Gatineau,Manslaughter,Actual incidents,2.0,0.0,3.0,3.0,0.0
+Ottawa-Gatineau,Manslaughter,Rate per 100000 population,0.17,0.0,0.24,0.24,0.0
+Ottawa-Gatineau,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Ottawa-Gatineau,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Kingston,Homicide,Actual incidents,1.0,4.0,3.0,0.0,0.0
+Kingston,Homicide,Rate per 100000 population,0.63,2.52,1.87,0.0,0.0
+Kingston,Murder first degree,Actual incidents,0.0,4.0,1.0,0.0,0.0
+Kingston,Murder first degree,Rate per 100000 population,0.0,2.52,0.62,0.0,0.0
+Kingston,Murder second degree,Actual incidents,1.0,0.0,2.0,0.0,0.0
+Kingston,Murder second degree,Rate per 100000 population,0.63,0.0,1.25,0.0,0.0
+Kingston,Manslaughter,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Kingston,Manslaughter,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Kingston,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Kingston,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Peterborough,Homicide,Actual incidents,1.0,1.0,2.0,3.0,2.0
+Peterborough,Homicide,Rate per 100000 population,0.83,0.83,1.65,2.47,1.65
+Peterborough,Murder first degree,Actual incidents,1.0,0.0,1.0,2.0,1.0
+Peterborough,Murder first degree,Rate per 100000 population,0.83,0,0.83,1.65,0.82
+Peterborough,Murder second degree,Actual incidents,0.0,1.0,1.0,1.0,1.0
+Peterborough,Murder second degree,Rate per 100000 population,0,0.83,0.83,0.82,0.82
+Peterborough,Manslaughter,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Peterborough,Manslaughter,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Peterborough,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Peterborough,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Toronto,Homicide,Actual incidents,103.0,90.0,80.0,86.0,80.0
+Toronto,Homicide,Rate per 100000 population,1.87,1.61,1.41,1.48,1.36
+Toronto,Murder first degree,Actual incidents,59.0,57.0,55.0,41.0,46.0
+Toronto,Murder first degree,Rate per 100000 population,1.07,1.02,0.97,0.71,0.78
+Toronto,Murder second degree,Actual incidents,42.0,27.0,24.0,37.0,32.0
+Toronto,Murder second degree,Rate per 100000 population,0.76,0.48,0.42,0.64,0.54
+Toronto,Manslaughter,Actual incidents,2.0,6.0,1.0,8.0,2.0
+Toronto,Manslaughter,Rate per 100000 population,0.04,0.11,0.02,0.14,0.03
+Toronto,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Toronto,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Hamilton,Homicide,Actual incidents,6.0,9.0,12.0,7.0,7.0
+Hamilton,Homicide,Rate per 100000 population,0.85,1.26,1.66,0.95,0.94
+Hamilton,Murder first degree,Actual incidents,1.0,4.0,5.0,4.0,1.0
+Hamilton,Murder first degree,Rate per 100000 population,0.14,0.56,0.69,0.54,0.13
+Hamilton,Murder second degree,Actual incidents,5.0,4.0,1.0,3.0,6.0
+Hamilton,Murder second degree,Rate per 100000 population,0.71,0.56,0.14,0.41,0.81
+Hamilton,Manslaughter,Actual incidents,0.0,1.0,6.0,0.0,0.0
+Hamilton,Manslaughter,Rate per 100000 population,0.0,0.14,0.83,0.0,0.0
+Hamilton,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Hamilton,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+St.Catharines-Niagara,Homicide,Actual incidents,6.0,5.0,4.0,2.0,3.0
+St.Catharines-Niagara,Homicide,Rate per 100000 population,1.36,1.13,0.9,0.45,0.67
+St.Catharines-Niagara,Murder first degree,Actual incidents,3.0,4.0,2.0,0.0,1.0
+St.Catharines-Niagara,Murder first degree,Rate per 100000 population,0.68,0.9,0.45,0,0.22
+St.Catharines-Niagara,Murder second degree,Actual incidents,1.0,1.0,2.0,2.0,2.0
+St.Catharines-Niagara,Murder second degree,Rate per 100000 population,0.23,0.23,0.45,0.45,0.45
+St.Catharines-Niagara,Manslaughter,Actual incidents,2.0,0.0,0.0,0.0,0.0
+St.Catharines-Niagara,Manslaughter,Rate per 100000 population,0.45,0.0,0.0,0.0,0.0
+St.Catharines-Niagara,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+St.Catharines-Niagara,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Kitchener-Cambridge,Homicide,Actual incidents,4.0,4.0,4.0,7.0,4.0
+Kitchener-Cambridge,Homicide,Rate per 100000 population,0.78,0.77,0.76,1.32,0.75
+Kitchener-Cambridge,Murder first degree,Actual incidents,3.0,3.0,1.0,2.0,3.0
+Kitchener-Cambridge,Murder first degree,Rate per 100000 population,0.59,0.58,0.19,0.38,0.56
+Kitchener-Cambridge,Murder second degree,Actual incidents,1.0,1.0,2.0,5.0,0.0
+Kitchener-Cambridge,Murder second degree,Rate per 100000 population,0.2,0.19,0.38,0.94,0.0
+Kitchener-Cambridge,Manslaughter,Actual incidents,0.0,0.0,1.0,0.0,1.0
+Kitchener-Cambridge,Manslaughter,Rate per 100000 population,0.0,0.0,0.19,0.0,0.19
+Kitchener-Cambridge,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Kitchener-Cambridge,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Brantford,Homicide,Actual incidents,2.0,2.0,1.0,2.0,0.0
+Brantford,Homicide,Rate per 100000 population,1.45,1.44,0.72,1.42,0.0
+Brantford,Murder first degree,Actual incidents,0.0,2.0,0.0,1.0,0.0
+Brantford,Murder first degree,Rate per 100000 population,0.0,1.44,0.0,0.71,0.0
+Brantford,Murder second degree,Actual incidents,2.0,0.0,1.0,1.0,0.0
+Brantford,Murder second degree,Rate per 100000 population,1.45,0.0,0.72,0.71,0.0
+Brantford,Manslaughter,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Brantford,Manslaughter,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Brantford,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Brantford,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Guelph,Homicide,Actual incidents,0.0,1.0,0.0,1.0,0.0
+Guelph,Homicide,Rate per 100000 population,0.0,0.81,0.0,0.79,0.0
+Guelph,Murder first degree,Actual incidents,0.0,0.0,0.0,1.0,0.0
+Guelph,Murder first degree,Rate per 100000 population,0.0,0.0,0.0,0.79,0.0
+Guelph,Murder second degree,Actual incidents,0.0,1.0,0.0,0.0,0.0
+Guelph,Murder second degree,Rate per 100000 population,0.0,0.81,0.0,0.0,0.0
+Guelph,Manslaughter,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Guelph,Manslaughter,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Guelph,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Guelph,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+London,Homicide,Actual incidents,2.0,3.0,9.0,9.0,8.0
+London,Homicide,Rate per 100000 population,0.41,0.61,1.82,1.81,1.59
+London,Murder first degree,Actual incidents,0.0,1.0,1.0,2.0,1.0
+London,Murder first degree,Rate per 100000 population,0.0,0.2,0.2,0.4,0.2
+London,Murder second degree,Actual incidents,2.0,2.0,7.0,7.0,5.0
+London,Murder second degree,Rate per 100000 population,0.41,0.41,1.42,1.4,1.0
+London,Manslaughter,Actual incidents,0.0,0.0,1.0,0.0,2.0
+London,Manslaughter,Rate per 100000 population,0.0,0.0,0.2,0.0,0.4
+London,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+London,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Windsor,Homicide,Actual incidents,7.0,5.0,0.0,1.0,3.0
+Windsor,Homicide,Rate per 100000 population,2.11,1.51,0.0,0.3,0.9
+Windsor,Murder first degree,Actual incidents,4.0,0.0,0.0,1.0,2.0
+Windsor,Murder first degree,Rate per 100000 population,1.2,0,0,0.3,0.6
+Windsor,Murder second degree,Actual incidents,1.0,5.0,0.0,0.0,1.0
+Windsor,Murder second degree,Rate per 100000 population,0.3,1.51,0.0,0.0,0.3
+Windsor,Manslaughter,Actual incidents,2.0,0.0,0.0,0.0,0.0
+Windsor,Manslaughter,Rate per 100000 population,0.6,0.0,0.0,0.0,0.0
+Windsor,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Windsor,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Barrie,Homicide,Actual incidents,0.0,1.0,2.0,1.0,2.0
+Barrie,Homicide,Rate per 100000 population,0.0,0.51,1.01,0.5,0.99
+Barrie,Murder first degree,Actual incidents,0.0,0.0,0.0,0.0,2.0
+Barrie,Murder first degree,Rate per 100000 population,0.0,0.0,0.0,0.0,0.99
+Barrie,Murder second degree,Actual incidents,0.0,1.0,1.0,1.0,0.0
+Barrie,Murder second degree,Rate per 100000 population,0.0,0.51,0.5,0.5,0.0
+Barrie,Manslaughter,Actual incidents,0.0,0.0,0.0,1.0,0.0
+Barrie,Manslaughter,Rate per 100000 population,0.0,0.0,0.0,0.5,0.0
+Barrie,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Barrie,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Sudbury,Homicide,Actual incidents,2.0,4.0,4.0,0.0,1.0
+Sudbury,Homicide,Rate per 100000 population,1.21,2.43,2.44,0.0,0.61
+Sudbury,Murder first degree,Actual incidents,1.0,4.0,0.0,0.0,1.0
+Sudbury,Murder first degree,Rate per 100000 population,0.61,2.43,0.0,0.0,0.61
+Sudbury,Murder second degree,Actual incidents,1.0,0.0,3.0,0.0,0.0
+Sudbury,Murder second degree,Rate per 100000 population,0.61,0.0,1.83,0.0,0.0
+Sudbury,Manslaughter,Actual incidents,0.0,0.0,0.0,1.0,0.0
+Sudbury,Manslaughter,Rate per 100000 population,0.0,0.0,0.0,0.61,0.0
+Sudbury,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Sudbury,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Thunder Bay,Homicide,Actual incidents,0.0,6.0,5.0,4.0,7.0
+Thunder Bay,Homicide,Rate per 100000 population,0.0,4.99,4.16,3.32,5.81
+Thunder Bay,Murder first degree,Actual incidents,0.0,1.0,2.0,0.0,2.0
+Thunder Bay,Murder first degree,Rate per 100000 population,0.0,0.83,1.66,0.0,1.66
+Thunder Bay,Murder second degree,Actual incidents,0.0,5.0,3.0,4.0,5.0
+Thunder Bay,Murder second degree,Rate per 100000 population,0.0,4.16,2.5,3.32,4.15
+Thunder Bay,Manslaughter,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Thunder Bay,Manslaughter,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
+Thunder Bay,Infanticide,Actual incidents,0.0,0.0,0.0,0.0,0.0
+Thunder Bay,Infanticide,Rate per 100000 population,0.0,0.0,0.0,0.0,0.0
